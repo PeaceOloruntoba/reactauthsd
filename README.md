@@ -13,7 +13,7 @@ Before you begin, ensure you have the following installed on your system:
 - [Node.js](https://nodejs.org/) - Download and install Node.js if you haven't already.
 - [npm](https://www.npmjs.com/) - npm comes bundled with Node.js.
 
-### Installation
+## Installation
 
 1. Download the project repository by clicking the "Download ZIP" button or by using `git`:
    ```
