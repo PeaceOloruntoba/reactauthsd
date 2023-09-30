@@ -42,8 +42,6 @@ This will start the application and make it accessible at http://localhost:3000 
 Before running the project, make sure to configure the necessary environment variables, such as your database connection information and session secrets. You can do this by creating a .env file in the root directory of the project and adding the following variables:
 
    ```
-   env
-   Copy code
    DB_HOST=your_database_host
    DB_USER=your_database_user
    DB_PASS=your_database_password
@@ -53,9 +51,9 @@ Before running the project, make sure to configure the necessary environment var
    ```
 
 ## Features
-├── User registration and login.
-├── Password hashing and authentication.
-├── Session management for user authentication.
+- User registration and login.
+- Password hashing and authentication.
+- Session management for user authentication.
 
 ## Project Structure
 The project's file structure is organized as follows:
