@@ -1,6 +1,6 @@
 # Login System with EJS and Node.js
 
-Welcome to the Login System project built using EJS and Node.js. This repository contains all the code and resources necessary to set up a basic login system for your web application. Follow the instructions below to get started.
+Welcome to the Login System project built using EJS and Node.js. This project stores the user's data locally in form of an array as seen in the server.js, you can also configure the environment variables to connect to a db. This repository contains all the code and resources necessary to set up a basic login system for your web application. Follow the instructions below to get started.
 
 ## Getting Started
 
